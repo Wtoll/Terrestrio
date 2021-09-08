@@ -1,0 +1,10 @@
+[package]
+name = "terrestrio"
+version = "0.1.0"
+authors = [
+    "William Toll <will@wtoll.com>"
+]
+edition = "2018"
+license = "MPL-2.0 OR GPL-3.0"
+
+[dependencies]
